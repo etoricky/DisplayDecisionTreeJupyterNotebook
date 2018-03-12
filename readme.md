@@ -48,9 +48,7 @@ display_clf(clf, feature_names=['Column1','Column2'], class_names='Target')
 
 
 
-```python
 # Save to png file
-```
 
 
 ```python
