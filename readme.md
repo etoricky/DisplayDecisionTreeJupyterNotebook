@@ -48,7 +48,7 @@ display_clf(clf, feature_names=['Column1','Column2'], class_names='Target')
 
 
 
-![png](output_4_1.png)
+![png](a.png)
 
 
 
