@@ -40,10 +40,6 @@ def display_clf(clf, feature_names=None, class_names=None):
 ```python
 display_clf(clf, feature_names=['Column1','Column2'], class_names='Target')
 ```
-
-    Warning: Could not load "/anaconda3/lib/graphviz/libgvplugin_pango.6.dylib" - file not found
-    Warning: Could not load "/anaconda3/lib/graphviz/libgvplugin_pango.6.dylib" - file not found
-    Warning: Could not load "/anaconda3/lib/graphviz/libgvplugin_pango.6.dylib" - file not found
     
 
 
@@ -68,10 +64,6 @@ def save_png_clf(clf, filename, feature_names=None, class_names=None):
 ```python
 save_png_clf(clf, 'a.png')
 ```
-
-    Warning: Could not load "/anaconda3/lib/graphviz/libgvplugin_pango.6.dylib" - file not found
-    Warning: Could not load "/anaconda3/lib/graphviz/libgvplugin_pango.6.dylib" - file not found
-    Warning: Could not load "/anaconda3/lib/graphviz/libgvplugin_pango.6.dylib" - file not found
     
 
 
